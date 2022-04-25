@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite29",
-    "path": "sprites/Sprite29/Sprite29.yy",
+    "name": "key_sprite",
+    "path": "sprites/key_sprite/key_sprite.yy",
   },
   "solid": false,
   "visible": true,
@@ -32,8 +32,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Final Assignment Main",
-    "path": "Final Assignment Main.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Key",

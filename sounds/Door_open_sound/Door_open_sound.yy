@@ -14,8 +14,8 @@
   "soundFile": "Door_open_sound.wav",
   "duration": 0.255442,
   "parent": {
-    "name": "Final Assignment Main",
-    "path": "Final Assignment Main.yyp",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "Door_open_sound",

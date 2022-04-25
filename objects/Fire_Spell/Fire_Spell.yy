@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Final Assignment Main",
-    "path": "Final Assignment Main.yyp",
+    "name": "Spells",
+    "path": "folders/Objects/Spells.yy",
   },
   "resourceVersion": "1.0",
   "name": "Fire_Spell",

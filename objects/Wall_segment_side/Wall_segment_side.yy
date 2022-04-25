@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "Sprite27",
-    "path": "sprites/Sprite27/Sprite27.yy",
+    "name": "wall_side",
+    "path": "sprites/wall_side/wall_side.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Wall Segments",
-    "path": "folders/Wall Segments.yy",
+    "path": "folders/Objects/Wall Segments.yy",
   },
   "resourceVersion": "1.0",
   "name": "Wall_segment_side",

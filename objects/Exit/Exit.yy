@@ -3,8 +3,8 @@
   "solid": false,
   "visible": true,
   "spriteMaskId": {
-    "name": "Key_sprite",
-    "path": "sprites/Key_sprite/Key_sprite.yy",
+    "name": "key_sprite",
+    "path": "sprites/key_sprite/key_sprite.yy",
   },
   "persistent": false,
   "parentObjectId": null,
@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Final Assignment Main",
-    "path": "Final Assignment Main.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Exit",
