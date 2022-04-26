@@ -2,6 +2,7 @@
   "resources": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"id":{"name":"wall_right","path":"sprites/wall_right/wall_right.yy",},"order":9,},
     {"id":{"name":"wall_bottom","path":"sprites/wall_bottom/wall_bottom.yy",},"order":7,},
@@ -14,10 +15,13 @@
 >>>>>>> parent of 4ebeb77 (Added Hud)
 =======
 >>>>>>> parent of 4ebeb77 (Added Hud)
+=======
+>>>>>>> parent of 4ebeb77 (Added Hud)
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":52,},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},"order":48,},
     {"id":{"name":"Door_open_sound","path":"sounds/Door_open_sound/Door_open_sound.yy",},"order":34,},
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},"order":56,},
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     {"id":{"name":"Bullet","path":"objects/Bullet/Bullet.yy",},"order":67,},
@@ -25,6 +29,11 @@
     {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":16,},
     {"id":{"name":"wall_left_sprite","path":"sprites/wall_left_sprite/wall_left_sprite.yy",},"order":45,},
 >>>>>>> Stashed changes
+=======
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":31,},
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":16,},
+    {"id":{"name":"wall_left_sprite","path":"sprites/wall_left_sprite/wall_left_sprite.yy",},"order":45,},
+>>>>>>> parent of 4ebeb77 (Added Hud)
 =======
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":31,},
     {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":16,},
@@ -51,12 +60,15 @@
     {"id":{"name":"Wall_segment_right","path":"objects/Wall_segment_right/Wall_segment_right.yy",},"order":3,},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"id":{"name":"pointer_sprite","path":"sprites/pointer_sprite/pointer_sprite.yy",},"order":15,},
     {"id":{"name":"Ground_circle_sprite","path":"sprites/Ground_circle_sprite/Ground_circle_sprite.yy",},"order":16,},
     {"id":{"name":"Door_sprite","path":"sprites/Door_sprite/Door_sprite.yy",},"order":5,},
     {"id":{"name":"Prisoner","path":"objects/Prisoner/Prisoner.yy",},"order":16,},
 =======
+=======
+>>>>>>> parent of 4ebeb77 (Added Hud)
 =======
 >>>>>>> parent of 4ebeb77 (Added Hud)
 =======
@@ -68,9 +80,13 @@
     {"id":{"name":"new_object","path":"objects/new_object/new_object.yy",},"order":0,},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"Mattack","path":"objects/Mattack/Mattack.yy",},"order":68,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":30,},
 >>>>>>> Stashed changes
+=======
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":30,},
+>>>>>>> parent of 4ebeb77 (Added Hud)
 =======
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":30,},
 >>>>>>> parent of 4ebeb77 (Added Hud)
@@ -106,6 +122,7 @@
     {"id":{"name":"facing_down","path":"sprites/facing_down/facing_down.yy",},"order":0,},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},"order":19,},
     {"id":{"name":"Door","path":"objects/Door/Door.yy",},"order":4,},
@@ -118,13 +135,19 @@
 =======
     {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},"order":17,},
 >>>>>>> parent of 4ebeb77 (Added Hud)
+=======
+    {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},"order":17,},
+>>>>>>> parent of 4ebeb77 (Added Hud)
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":42,},
     {"id":{"name":"Door","path":"objects/Door/Door.yy",},"order":21,},
     {"id":{"name":"Ground_Circle","path":"objects/Ground_Circle/Ground_Circle.yy",},"order":29,},
     {"id":{"name":"Key_sprite","path":"sprites/Key_sprite/Key_sprite.yy",},"order":33,},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 4ebeb77 (Added Hud)
 =======
 >>>>>>> parent of 4ebeb77 (Added Hud)
 =======
