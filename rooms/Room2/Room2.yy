@@ -48,11 +48,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_hud_manager","path":"objects/obj_hud_manager/obj_hud_manager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1656.0,"y":737.0,"resourceVersion":"1.0","name":"inst_26F3FD6B","tags":[],"resourceType":"GMRInstance",},
 =======
         {"properties":[],"isDnd":false,"objectId":{"name":"Walker","path":"objects/Walker/Walker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.3,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":704.0,"resourceVersion":"1.0","name":"inst_3BEC2E33","tags":[],"resourceType":"GMRInstance",},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 4ebeb77 (Added Hud)
 =======
 >>>>>>> parent of 4ebeb77 (Added Hud)
 =======
@@ -130,11 +133,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"name":"inst_26F3FD6B","path":"rooms/Room2/Room2.yy",},
 =======
     {"name":"inst_3BEC2E33","path":"rooms/Room2/Room2.yy",},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 4ebeb77 (Added Hud)
 =======
 >>>>>>> parent of 4ebeb77 (Added Hud)
 =======
