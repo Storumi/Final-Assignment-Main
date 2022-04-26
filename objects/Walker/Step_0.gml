@@ -13,7 +13,7 @@ switch(state)
 				{
 					speed=1;
 				}
-			else{state=Attack;speed=0;waittimer=0}
+			else{state=Attack;speed=0;waittimer=0;attack_x=Player.x-32;attack_y=Player.y-32}
 		break;
 		
 		case Attack:
@@ -21,7 +21,7 @@ switch(state)
 			if(waittimer<60){waittimer++}
 			else if(waittimer==60)
 				{
-					var temp= instance_create_layer(x,y,"instances",Enemy_Attack);
+					var temp= instance_create_layer(attack_x,attack_y,"instances",Enemy_Attack);
 					temp.direction=direction;
 					waittimer++;
 				}
