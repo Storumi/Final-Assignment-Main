@@ -17,11 +17,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
+<<<<<<<< HEAD:objects/Shooter/Shooter.yy
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
+========
+  "eventList": [],
+>>>>>>>> parent of 4ebeb77 (Added Hud):objects/new_object/new_object.yy
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -29,7 +33,11 @@
     "path": "Final Assignment Main.yyp",
   },
   "resourceVersion": "1.0",
+<<<<<<<< HEAD:objects/Shooter/Shooter.yy
   "name": "Shooter",
+========
+  "name": "new_object",
+>>>>>>>> parent of 4ebeb77 (Added Hud):objects/new_object/new_object.yy
   "tags": [],
   "resourceType": "GMObject",
 }
