@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "wall_left",
-    "path": "sprites/wall_left/wall_left.yy",
+    "name": "Sprite24",
+    "path": "sprites/Sprite24/Sprite24.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Wall Segments",
-    "path": "folders/Objects/Wall Segments.yy",
+    "path": "folders/Wall Segments.yy",
   },
   "resourceVersion": "1.0",
   "name": "wall_segment_left",

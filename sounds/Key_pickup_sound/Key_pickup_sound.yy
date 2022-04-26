@@ -14,8 +14,8 @@
   "soundFile": "Key_pickup_sound.wav",
   "duration": 0.446485,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Final Assignment Main",
+    "path": "Final Assignment Main.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Key_pickup_sound",

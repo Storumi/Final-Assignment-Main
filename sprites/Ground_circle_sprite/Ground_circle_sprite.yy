@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Final Assignment Main",
+    "path": "Final Assignment Main.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Ground_circle_sprite",

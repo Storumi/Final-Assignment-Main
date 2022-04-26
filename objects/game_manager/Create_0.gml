@@ -12,4 +12,3 @@ dist_check_y=0;
 menu_id=0;
 pointer_id=0;
 facing=0;
-//4: ???,  0: right, 1:up, 2:left; 3:down

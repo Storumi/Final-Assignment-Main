@@ -1,8 +1,14 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite28",
+    "path": "sprites/Sprite28/Sprite28.yy",
+  },
   "solid": true,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Key_sprite",
+    "path": "sprites/Key_sprite/Key_sprite.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -21,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Final Assignment Main",
+    "path": "Final Assignment Main.yyp",
   },
   "resourceVersion": "1.0",
   "name": "collider_box",

@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Final Assignment Main",
+    "path": "Final Assignment Main.yyp",
   },
   "resourceVersion": "1.0",
   "name": "dialogue_box",

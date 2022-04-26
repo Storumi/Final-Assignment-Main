@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "wall_bottom",
-    "path": "sprites/wall_bottom/wall_bottom.yy",
+    "name": "Sprite22",
+    "path": "sprites/Sprite22/Sprite22.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Wall Segments",
-    "path": "folders/Objects/Wall Segments.yy",
+    "path": "folders/Wall Segments.yy",
   },
   "resourceVersion": "1.0",
   "name": "Wall_segment_bottom_left",
