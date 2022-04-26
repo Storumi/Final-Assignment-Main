@@ -1,12 +1,24 @@
 {
   "resources": [
+<<<<<<< Updated upstream
     {"id":{"name":"wall_right","path":"sprites/wall_right/wall_right.yy",},"order":9,},
     {"id":{"name":"wall_bottom","path":"sprites/wall_bottom/wall_bottom.yy",},"order":7,},
     {"id":{"name":"Door_open_sound","path":"sounds/Door_open_sound/Door_open_sound.yy",},"order":0,},
     {"id":{"name":"fireball_sprite","path":"sprites/fireball_sprite/fireball_sprite.yy",},"order":1,},
     {"id":{"name":"key_sprite","path":"sprites/key_sprite/key_sprite.yy",},"order":11,},
     {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":1,},
+=======
+    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":52,},
+    {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},"order":48,},
+    {"id":{"name":"Door_open_sound","path":"sounds/Door_open_sound/Door_open_sound.yy",},"order":34,},
+    {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},"order":56,},
+    {"id":{"name":"Bullet","path":"objects/Bullet/Bullet.yy",},"order":67,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":31,},
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":16,},
+    {"id":{"name":"wall_left_sprite","path":"sprites/wall_left_sprite/wall_left_sprite.yy",},"order":45,},
+>>>>>>> Stashed changes
     {"id":{"name":"facing_up","path":"sprites/facing_up/facing_up.yy",},"order":3,},
+    {"id":{"name":"Walker","path":"objects/Walker/Walker.yy",},"order":65,},
     {"id":{"name":"facing_right","path":"sprites/facing_right/facing_right.yy",},"order":2,},
     {"id":{"name":"game_manager","path":"objects/game_manager/game_manager.yy",},"order":7,},
     {"id":{"name":"Wall_segment_bottom_right","path":"objects/Wall_segment_bottom_right/Wall_segment_bottom_right.yy",},"order":1,},
@@ -18,10 +30,20 @@
     {"id":{"name":"Wall_segment_top","path":"objects/Wall_segment_top/Wall_segment_top.yy",},"order":4,},
     {"id":{"name":"hud_sprite","path":"sprites/hud_sprite/hud_sprite.yy",},"order":4,},
     {"id":{"name":"Wall_segment_right","path":"objects/Wall_segment_right/Wall_segment_right.yy",},"order":3,},
+<<<<<<< Updated upstream
     {"id":{"name":"pointer_sprite","path":"sprites/pointer_sprite/pointer_sprite.yy",},"order":15,},
     {"id":{"name":"Ground_circle_sprite","path":"sprites/Ground_circle_sprite/Ground_circle_sprite.yy",},"order":16,},
     {"id":{"name":"Door_sprite","path":"sprites/Door_sprite/Door_sprite.yy",},"order":5,},
     {"id":{"name":"Prisoner","path":"objects/Prisoner/Prisoner.yy",},"order":16,},
+=======
+    {"id":{"name":"pointer_sprite","path":"sprites/pointer_sprite/pointer_sprite.yy",},"order":60,},
+    {"id":{"name":"Ground_circle_sprite","path":"sprites/Ground_circle_sprite/Ground_circle_sprite.yy",},"order":36,},
+    {"id":{"name":"Door_sprite","path":"sprites/Door_sprite/Door_sprite.yy",},"order":32,},
+    {"id":{"name":"Prisoner","path":"objects/Prisoner/Prisoner.yy",},"order":18,},
+    {"id":{"name":"new_object","path":"objects/new_object/new_object.yy",},"order":0,},
+    {"id":{"name":"Mattack","path":"objects/Mattack/Mattack.yy",},"order":68,},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":30,},
+>>>>>>> Stashed changes
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":14,},
     {"id":{"name":"heart_sprite","path":"sprites/heart_sprite/heart_sprite.yy",},"order":5,},
     {"id":{"name":"Key_pickup_sound","path":"sounds/Key_pickup_sound/Key_pickup_sound.yy",},"order":1,},
@@ -49,8 +71,17 @@
     {"id":{"name":"pointer","path":"objects/pointer/pointer.yy",},"order":15,},
     {"id":{"name":"Title","path":"sprites/Title/Title.yy",},"order":17,},
     {"id":{"name":"facing_down","path":"sprites/facing_down/facing_down.yy",},"order":0,},
+<<<<<<< Updated upstream
     {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},"order":19,},
     {"id":{"name":"Door","path":"objects/Door/Door.yy",},"order":4,},
+=======
+    {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},"order":17,},
+    {"id":{"name":"Shooter","path":"objects/Shooter/Shooter.yy",},"order":66,},
+    {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":42,},
+    {"id":{"name":"Door","path":"objects/Door/Door.yy",},"order":21,},
+    {"id":{"name":"Ground_Circle","path":"objects/Ground_Circle/Ground_Circle.yy",},"order":29,},
+    {"id":{"name":"Key_sprite","path":"sprites/Key_sprite/Key_sprite.yy",},"order":33,},
+>>>>>>> Stashed changes
     {"id":{"name":"wall_segment_left","path":"objects/wall_segment_left/wall_segment_left.yy",},"order":2,},
     {"id":{"name":"Fire_Spell","path":"objects/Fire_Spell/Fire_Spell.yy",},"order":0,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
@@ -68,7 +99,7 @@
     {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
     {"name":"Windows UWP","path":"options/windowsuap/options_windowsuap.yy",},
   ],
-  "defaultScriptType": 1,
+  "isDnDProject": false,
   "isEcma": false,
   "configs": {
     "name": "Default",
@@ -101,11 +132,11 @@
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.625",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "Final Assignment Main",
