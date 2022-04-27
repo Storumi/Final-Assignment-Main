@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "abilities",
+    "path": "folders/Sprites/abilities.yy",
   },
   "resourceVersion": "1.0",
   "name": "Fire_sprite",

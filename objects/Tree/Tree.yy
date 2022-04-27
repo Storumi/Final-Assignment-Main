@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "In-Game Objects",
+    "path": "folders/Objects/Game/In-Game Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Tree",

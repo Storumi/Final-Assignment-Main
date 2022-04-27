@@ -2,7 +2,7 @@
 // You can write your code in this editor
 projectilespeed = 5;
 image_speed = 1;
-alarm[0] = 20;
+alarm[0] = 40;
 facing = game_manager.facing;
 if(facing == 0) {
 	image_xscale = 1;

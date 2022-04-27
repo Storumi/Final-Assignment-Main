@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "npc",
+    "path": "folders/Sprites/npc.yy",
   },
   "resourceVersion": "1.0",
   "name": "Prisoner_sprite",

@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "group1",
+    "path": "folders/Sprites/game/group1.yy",
   },
   "resourceVersion": "1.0",
   "name": "wall_right",

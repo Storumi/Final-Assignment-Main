@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "game",
+    "path": "folders/Sprites/game.yy",
   },
   "resourceVersion": "1.0",
   "name": "Ground_circle_sprite",
