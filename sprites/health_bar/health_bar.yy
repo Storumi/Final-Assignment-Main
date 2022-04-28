@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 4,
-  "bbox_right": 54,
-  "bbox_top": 5,
-  "bbox_bottom": 57,
+  "bbox_left": 0,
+  "bbox_right": 0,
+  "bbox_top": 0,
+  "bbox_bottom": 0,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 1,
+  "height": 12,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2ae127fe-c021-4ca2-bea0-e18b2fa53e5d","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2ae127fe-c021-4ca2-bea0-e18b2fa53e5d","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},"LayerId":{"name":"ed6912c6-513a-4975-aa04-39de4e4980ae","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Messenger_sprite","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},"resourceVersion":"1.0","name":"2ae127fe-c021-4ca2-bea0-e18b2fa53e5d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e971b37c-b8d2-4af1-a8e9-c8bac0374918","path":"sprites/health_bar/health_bar.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e971b37c-b8d2-4af1-a8e9-c8bac0374918","path":"sprites/health_bar/health_bar.yy",},"LayerId":{"name":"b21947e7-afac-4155-91f8-6da036854d6b","path":"sprites/health_bar/health_bar.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"health_bar","path":"sprites/health_bar/health_bar.yy",},"resourceVersion":"1.0","name":"e971b37c-b8d2-4af1-a8e9-c8bac0374918","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Messenger_sprite","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},
+    "spriteId": {"name":"health_bar","path":"sprites/health_bar/health_bar.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a8316c0c-5f44-4473-b926-4e2ba5c7de98","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ae127fe-c021-4ca2-bea0-e18b2fa53e5d","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b4d063d5-d3e1-4258-a496-b82eaa7e6cf5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e971b37c-b8d2-4af1-a8e9-c8bac0374918","path":"sprites/health_bar/health_bar.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Messenger_sprite","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},
+    "parent": {"name":"health_bar","path":"sprites/health_bar/health_bar.yy",},
     "resourceVersion": "1.3",
-    "name": "Messenger_sprite",
+    "name": "health_bar",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ed6912c6-513a-4975-aa04-39de4e4980ae","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b21947e7-afac-4155-91f8-6da036854d6b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Messenger_sprite",
+  "name": "health_bar",
   "tags": [],
   "resourceType": "GMSprite",
 }

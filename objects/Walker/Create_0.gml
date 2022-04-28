@@ -10,3 +10,9 @@ waittimer=0;
 facing=0;
 attack_x=0;
 attack_y=0;
+
+ hp = 6;
+ hp_max = hp;
+ 
+ healthbar_width = 30;
+ healthbar_height = 4;

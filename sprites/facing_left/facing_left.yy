@@ -149,7 +149,7 @@
             {"id":"352dedc9-9ed8-41de-b76c-3e9103efb315","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf37b8c7-4cfb-48fe-bb73-50e63b50b069","path":"sprites/facing_left/facing_left.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"79e9dae1-18ea-44a7-85ff-ee7b8fe24a42","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8202f382-75bc-48cc-b011-e5ccd7dcb43f","path":"sprites/facing_left/facing_left.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b0b1592b-8f5f-4492-881a-8673ef3f240d","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d23826d-327b-47dd-b4e5-df01de2ef567","path":"sprites/facing_left/facing_left.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -166,7 +166,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"facing_left","path":"sprites/facing_left/facing_left.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "facing_left",
     "tags": [],
     "resourceType": "GMSequence",
@@ -174,7 +174,6 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",

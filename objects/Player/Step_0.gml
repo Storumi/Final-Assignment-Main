@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+healthbar_x = Player.x-50;
+healthbar_y = Player.y -50;
 if(!casting){
 if (keyboard_check(ord("W")) && place_free(x,y-collision_speed) && 
 	(!keyboard_check(ord("A"))&&!keyboard_check(ord("S"))&&!keyboard_check(ord("D"))))
@@ -45,7 +46,6 @@ if (facing==4){image_speed=0;}
 else {image_speed=1;}
 
 if(image_index>sprite_get_number(sprite_index)){image_index=0;}
-
 
 
 
