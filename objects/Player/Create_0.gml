@@ -6,6 +6,14 @@
  image_speed=0;
  casting=false;
  game_manager.player_id=id;
+ 
+ hp = 6;
+ hp_max = hp;
+ 
+ healthbar_width = 100;
+ healthbar_height = 12;
+
+ 
  /*
  0 means facing right
  1 means facing up
