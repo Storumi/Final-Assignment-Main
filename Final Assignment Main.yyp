@@ -5,51 +5,23 @@
     {"id":{"name":"wall_bottom","path":"sprites/wall_bottom/wall_bottom.yy",},"order":1,},
     {"id":{"name":"Door_open_sound","path":"sounds/Door_open_sound/Door_open_sound.yy",},"order":0,},
     {"id":{"name":"fireball_sprite","path":"sprites/fireball_sprite/fireball_sprite.yy",},"order":1,},
-<<<<<<< HEAD
-<<<<<<< HEAD
-    {"id":{"name":"key_sprite","path":"sprites/key_sprite/key_sprite.yy",},"order":1,},
-    {"id":{"name":"spr_empty","path":"sprites/spr_empty/spr_empty.yy",},"order":4,},
-    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":2,},
-    {"id":{"name":"ice_attack_ver_sprite","path":"sprites/ice_attack_ver_sprite/ice_attack_ver_sprite.yy",},"order":5,},
-=======
     {"id":{"name":"wintitle","path":"objects/wintitle/wintitle.yy",},"order":24,},
     {"id":{"name":"key_sprite","path":"sprites/key_sprite/key_sprite.yy",},"order":11,},
     {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":1,},
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
-=======
-    {"id":{"name":"wintitle","path":"objects/wintitle/wintitle.yy",},"order":24,},
-    {"id":{"name":"key_sprite","path":"sprites/key_sprite/key_sprite.yy",},"order":11,},
-    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":1,},
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
     {"id":{"name":"facing_up","path":"sprites/facing_up/facing_up.yy",},"order":3,},
     {"id":{"name":"Lose","path":"rooms/Lose/Lose.yy",},"order":3,},
     {"id":{"name":"facing_right","path":"sprites/facing_right/facing_right.yy",},"order":2,},
     {"id":{"name":"game_manager","path":"objects/game_manager/game_manager.yy",},"order":1,},
-    {"id":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"order":0,},
     {"id":{"name":"Wall_segment_bottom_right","path":"objects/Wall_segment_bottom_right/Wall_segment_bottom_right.yy",},"order":1,},
     {"id":{"name":"Heal_Spell","path":"objects/Heal_Spell/Heal_Spell.yy",},"order":3,},
     {"id":{"name":"wall_left","path":"sprites/wall_left/wall_left.yy",},"order":2,},
     {"id":{"name":"Key","path":"objects/Key/Key.yy",},"order":1,},
     {"id":{"name":"Dialogue_box_sprite","path":"sprites/Dialogue_box_sprite/Dialogue_box_sprite.yy",},"order":0,},
     {"id":{"name":"Messenger_sprite","path":"sprites/Messenger_sprite/Messenger_sprite.yy",},"order":1,},
-    {"id":{"name":"enemy_right","path":"sprites/enemy_right/enemy_right.yy",},"order":2,},
     {"id":{"name":"Exit","path":"objects/Exit/Exit.yy",},"order":5,},
     {"id":{"name":"Wall_segment_top","path":"objects/Wall_segment_top/Wall_segment_top.yy",},"order":4,},
     {"id":{"name":"hud_sprite","path":"sprites/hud_sprite/hud_sprite.yy",},"order":4,},
     {"id":{"name":"Wall_segment_right","path":"objects/Wall_segment_right/Wall_segment_right.yy",},"order":3,},
-<<<<<<< HEAD
-<<<<<<< HEAD
-    {"id":{"name":"Walker","path":"objects/Walker/Walker.yy",},"order":1,},
-    {"id":{"name":"obj_restart_game","path":"objects/obj_restart_game/obj_restart_game.yy",},"order":10,},
-    {"id":{"name":"pointer_sprite","path":"sprites/pointer_sprite/pointer_sprite.yy",},"order":0,},
-    {"id":{"name":"healthbar_border","path":"sprites/healthbar_border/healthbar_border.yy",},"order":5,},
-    {"id":{"name":"Prisoner","path":"objects/Prisoner/Prisoner.yy",},"order":16,},
-    {"id":{"name":"Door_sprite","path":"sprites/Door_sprite/Door_sprite.yy",},"order":5,},
-    {"id":{"name":"Ground_circle_sprite","path":"sprites/Ground_circle_sprite/Ground_circle_sprite.yy",},"order":16,},
-    {"id":{"name":"enemy_left","path":"sprites/enemy_left/enemy_left.yy",},"order":1,},
-=======
-=======
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
     {"id":{"name":"Win","path":"rooms/Win/Win.yy",},"order":2,},
     {"id":{"name":"Walker","path":"objects/Walker/Walker.yy",},"order":21,},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},"order":0,},
@@ -59,10 +31,6 @@
     {"id":{"name":"Door_sprite","path":"sprites/Door_sprite/Door_sprite.yy",},"order":5,},
     {"id":{"name":"Ground_circle_sprite","path":"sprites/Ground_circle_sprite/Ground_circle_sprite.yy",},"order":16,},
     {"id":{"name":"losetitle","path":"objects/losetitle/losetitle.yy",},"order":23,},
-<<<<<<< HEAD
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
-=======
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":14,},
     {"id":{"name":"heart_sprite","path":"sprites/heart_sprite/heart_sprite.yy",},"order":5,},
     {"id":{"name":"healing_sprite","path":"sprites/healing_sprite/healing_sprite.yy",},"order":3,},
@@ -70,7 +38,6 @@
     {"id":{"name":"ele_sprite","path":"sprites/ele_sprite/ele_sprite.yy",},"order":0,},
     {"id":{"name":"dialogue_box","path":"objects/dialogue_box/dialogue_box.yy",},"order":0,},
     {"id":{"name":"Lightning_Spell","path":"objects/Lightning_Spell/Lightning_Spell.yy",},"order":2,},
-    {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},"order":2,},
     {"id":{"name":"Prisoner_sprite","path":"sprites/Prisoner_sprite/Prisoner_sprite.yy",},"order":2,},
     {"id":{"name":"obj_hud_manager","path":"objects/obj_hud_manager/obj_hud_manager.yy",},"order":0,},
     {"id":{"name":"Fire_sprite","path":"sprites/Fire_sprite/Fire_sprite.yy",},"order":0,},
@@ -86,7 +53,7 @@
     {"id":{"name":"Messenger","path":"objects/Messenger/Messenger.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"Enemy_Attack","path":"objects/Enemy_Attack/Enemy_Attack.yy",},"order":22,},
-    {"id":{"name":"health_bar","path":"sprites/health_bar/health_bar.yy",},"order":3,},
+    {"id":{"name":"health_bar","path":"sprites/health_bar/health_bar.yy",},"order":20,},
     {"id":{"name":"Menu","path":"objects/Menu/Menu.yy",},"order":11,},
     {"id":{"name":"facing_left","path":"sprites/facing_left/facing_left.yy",},"order":1,},
     {"id":{"name":"Tree_sprite","path":"sprites/Tree_sprite/Tree_sprite.yy",},"order":2,},
@@ -97,7 +64,6 @@
     {"id":{"name":"facing_down","path":"sprites/facing_down/facing_down.yy",},"order":0,},
     {"id":{"name":"Tree","path":"objects/Tree/Tree.yy",},"order":2,},
     {"id":{"name":"Door","path":"objects/Door/Door.yy",},"order":0,},
-    {"id":{"name":"enemy_up","path":"sprites/enemy_up/enemy_up.yy",},"order":3,},
     {"id":{"name":"ice_attack_sprite","path":"sprites/ice_attack_sprite/ice_attack_sprite.yy",},"order":2,},
     {"id":{"name":"wall_segment_left","path":"objects/wall_segment_left/wall_segment_left.yy",},"order":2,},
     {"id":{"name":"Fire_Spell","path":"objects/Fire_Spell/Fire_Spell.yy",},"order":0,},
@@ -124,17 +90,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-<<<<<<< HEAD
-<<<<<<< HEAD
-    {"roomId":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
-=======
     {"roomId":{"name":"Lose","path":"rooms/Lose/Lose.yy",},},
     {"roomId":{"name":"Win","path":"rooms/Win/Win.yy",},},
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
-=======
-    {"roomId":{"name":"Lose","path":"rooms/Lose/Lose.yy",},},
-    {"roomId":{"name":"Win","path":"rooms/Win/Win.yy",},},
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -152,19 +109,18 @@
     {"folderPath":"folders/Notes.yy","order":12,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":13,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Wall Segments.yy","order":0,"resourceVersion":"1.0","name":"Wall Segments","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/hud.yy","order":1,"resourceVersion":"1.0","name":"hud","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/hud.yy","order":18,"resourceVersion":"1.0","name":"hud","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Spells.yy","order":20,"resourceVersion":"1.0","name":"Spells","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/NPC.yy","order":23,"resourceVersion":"1.0","name":"NPC","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemy.yy","order":24,"resourceVersion":"1.0","name":"Enemy","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Game.yy","order":25,"resourceVersion":"1.0","name":"Game","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Game/In-Game Objects.yy","order":9,"resourceVersion":"1.0","name":"In-Game Objects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Old Code.yy","order":26,"resourceVersion":"1.0","name":"Old Code","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/npc.yy","order":2,"resourceVersion":"1.0","name":"npc","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/game.yy","order":4,"resourceVersion":"1.0","name":"game","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/npc.yy","order":20,"resourceVersion":"1.0","name":"npc","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/game.yy","order":21,"resourceVersion":"1.0","name":"game","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/game/group1.yy","order":3,"resourceVersion":"1.0","name":"group1","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/abilities.yy","order":6,"resourceVersion":"1.0","name":"abilities","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/player.yy","order":7,"resourceVersion":"1.0","name":"player","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/enemy.yy","order":12,"resourceVersion":"1.0","name":"enemy","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/abilities.yy","order":22,"resourceVersion":"1.0","name":"abilities","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/player.yy","order":23,"resourceVersion":"1.0","name":"player","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

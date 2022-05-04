@@ -44,26 +44,26 @@ if (h)
 	{
 		if(v)
 			{
-				if(abs(hspeed)>abs(vspeed)){sprite_index=enemy_right}
-				else{sprite_index=enemy_down}
+				if(abs(hspeed)>abs(vspeed)){sprite_index=facing_right}
+				else{sprite_index=facing_down}
 			}
 		else
 			{
-				if(abs(hspeed)>abs(vspeed)){sprite_index=enemy_right}
-				else{sprite_index=enemy_up}
+				if(abs(hspeed)>abs(vspeed)){sprite_index=facing_right}
+				else{sprite_index=facing_up}
 			}
 	}
 else
 	{
 		if(v)
 			{
-				if(abs(hspeed)>abs(vspeed)){sprite_index=enemy_left}
-					else{sprite_index=enemy_down}
+				if(abs(hspeed)>abs(vspeed)){sprite_index=facing_left}
+					else{sprite_index=facing_down}
 			}
 		else
 			{
-				if(abs(hspeed)>abs(vspeed)){sprite_index=enemy_left}
-				else{sprite_index=enemy_up}
+				if(abs(hspeed)>abs(vspeed)){sprite_index=facing_left}
+				else{sprite_index=facing_up}
 			}
 	}
 	
@@ -71,10 +71,3 @@ if(speed>0){image_speed=1}
 else{image_speed=0;}
 healthbar_x = Walker.x-15.5;
 healthbar_y = Walker.y -35;
-
-
-//death
-if(hp <= 0){
-	//play death animation?
-	instance_deactivate_object(Walker);
-}

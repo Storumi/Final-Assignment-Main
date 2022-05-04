@@ -1,1 +1,3 @@
-image_index = spr_empty;
+//instance_deactivate_object(id);
+//freeze mob
+//triggers freezing animation

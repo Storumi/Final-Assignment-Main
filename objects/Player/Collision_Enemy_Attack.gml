@@ -1,1 +1,0 @@
-is_hit = true;
