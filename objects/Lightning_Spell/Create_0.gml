@@ -1,3 +1,3 @@
 image_speed=1;
-alarm[0]=20;
+alarm[0]=10;
 

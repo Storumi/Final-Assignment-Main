@@ -7,11 +7,14 @@
  casting=false;
  game_manager.player_id=id;
  
- hp = 6;
+ hp = 5;
  hp_max = hp;
  
  healthbar_width = 100;
  healthbar_height = 12;
+ 
+ is_hit = false;
+ is_invincible = false;
 
  
  /*

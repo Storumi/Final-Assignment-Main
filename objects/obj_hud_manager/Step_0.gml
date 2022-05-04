@@ -8,12 +8,12 @@ if(keyboard_check(ord("J")) && !fire_cd) {
 } else if(keyboard_check(ord("K")) && !zap_cd) {
 	zap_cd = true;
 	instance_create_depth(Player.x,Player.y,layer,Lightning_Spell);
-} else if(keyboard_check(ord("L")) && !heal_cd) {
+} else if(keyboard_check(ord("L")) && !heal_cd && Player.hp < 5) {
 	heal_cd = true;
 	instance_create_depth(Player.x,Player.y,layer,Heal_Spell);
 } else if(keyboard_check(186)  && !ice_cd) {
 	ice_cd = true;
-	instance_create_depth(Player.x,Player.y,layer,Ice_Spell);
+	instance_create_depth(Player.x,Player.y - 10,layer,Ice_Spell);
 }
 
 //fire cooldown
