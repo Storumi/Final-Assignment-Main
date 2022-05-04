@@ -63,11 +63,6 @@ if(is_hit == true && is_invincible == false){
 
 //make similar code for enemy contact
 	
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
 if (hp <=0){room_goto(Lose);}
 	
 	
