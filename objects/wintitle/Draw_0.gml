@@ -5,6 +5,6 @@ draw_set_valign(fa_middle);
 
 draw_set_font(fnt_title);
 
-draw_text_transformed(room_width/2,room_height/2,"YOU LOSE!",1,1,0);
+draw_text_transformed(room_width/2,room_height/2,"YOU WIN!",1,1,0);
 
 draw_text_transformed(room_width/2,room_height/2 +50,"PRESS SPACE TO RETURN TO TITLE!",1,1,0);

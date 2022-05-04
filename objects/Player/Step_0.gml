@@ -48,6 +48,6 @@ else {image_speed=1;}
 if(image_index>sprite_get_number(sprite_index)){image_index=0;}
 
 
-if (hp >=0){room_goto(Lose);}
+if (hp <=0){room_goto(Lose);}
 	
 	
