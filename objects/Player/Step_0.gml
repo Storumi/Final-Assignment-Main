@@ -47,7 +47,27 @@ else {image_speed=1;}
 
 if(image_index>sprite_get_number(sprite_index)){image_index=0;}
 
+//death
+if(hp <= 0){
+	room_goto(rm_game_over);
+}
 
+//is hit
+if(is_hit == true && is_invincible == false){
+	Player.hp -= 1;
+	Player.healthbar_width -= 20;
+	alarm[0] = room_speed * 5;
+	is_invincible = true;
+	//invulnerable animation
+}
+
+//make similar code for enemy contact
+	
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
 if (hp <=0){room_goto(Lose);}
 	
 	
