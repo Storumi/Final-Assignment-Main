@@ -11,6 +11,9 @@ facing=0;
 attack_x=0;
 attack_y=0;
 
+collide = false;
+collision_timer = 0;
+
  hp = 3;
  hp_max = hp;
  
