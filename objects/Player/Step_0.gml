@@ -52,22 +52,31 @@ if(hp <= 0){
 	room_goto(rm_game_over);
 }
 
-//is hit
-if(is_hit == true && is_invincible == false){
+//when player touches an enemy
+if(contact == true && is_invincible == false){
 	Player.hp -= 1;
 	Player.healthbar_width -= 20;
-	alarm[0] = room_speed * 5;
+	alarm[0] = room_speed * 3;
 	is_invincible = true;
-	//invulnerable animation
+	//damage/invulnerable animation
+	flashAlpha = 1;
 }
 
-//make similar code for enemy contact
-	
+//when player gets hit by enemy melee attack
+if(is_hit == true && is_invincible == false){
+	Player.hp -= 2;
+	Player.healthbar_width -= 40;
+	alarm[1] = room_speed * 3;
+	is_invincible = true;
+	//invulnerable animation
+	flashAlpha = 1;
+}
 
-<<<<<<< HEAD
+//lessen flash
+if(flashAlpha > 0){
+	flashAlpha -= 0.05;
+}
 
-=======
->>>>>>> 18da649466e798fb8bf76bc231c2b8e7a83035e4
 if (hp <=0){room_goto(Lose);}
 	
 	

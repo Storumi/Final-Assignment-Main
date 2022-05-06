@@ -78,3 +78,9 @@ if(hp <= 0){
 	//play death animation?
 	instance_deactivate_object(Walker);
 }
+
+//lessen flash
+if(flashAlpha > 0){
+	flashAlpha -= 0.05;
+}
+

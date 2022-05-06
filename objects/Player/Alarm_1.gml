@@ -1,6 +1,2 @@
 is_invincible = false;
-contact = false;
-
-
-
-
+is_hit = false;

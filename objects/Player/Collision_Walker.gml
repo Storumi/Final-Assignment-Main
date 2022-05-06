@@ -1,2 +1,2 @@
-is_hit = true;
+contact = true;
 

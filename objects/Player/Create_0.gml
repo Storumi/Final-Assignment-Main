@@ -13,8 +13,14 @@
  healthbar_width = 100;
  healthbar_height = 12;
  
+ //enemy interaction
+ contact = false;
  is_hit = false;
  is_invincible = false;
+ 
+ //damage/invulnerable animation
+ flashAlpha = 0;
+ flashColor = c_white;
 
  
  /*

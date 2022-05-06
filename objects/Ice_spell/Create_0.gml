@@ -19,7 +19,7 @@ else if(facing==2){
 	}
 else if(facing==3){
 	vspeed=projectilespeed;
-	sprite_index = ice_attack_ver_sprite;
-	y -= 40;
+	sprite_index = ice_attack_ver_sprite_down;
+	y += 50;
 	}
 

@@ -16,3 +16,8 @@ attack_y=0;
  
  healthbar_width = 30;
  healthbar_height = 4;
+ 
+ //damage animation
+ flashAlpha = 0;
+ flashColor = c_white;
+
