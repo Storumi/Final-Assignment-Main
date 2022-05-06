@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "wall_right",
-    "path": "sprites/wall_right/wall_right.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "par_depth",
-    "path": "objects/par_depth/par_depth.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,15 +19,18 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":12,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Wall Segments",
-    "path": "folders/Objects/Wall Segments.yy",
+    "name": "Depth Sorter",
+    "path": "folders/Objects/Game/Depth Sorter.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Wall_segment_right",
+  "name": "obj_sorter",
   "tags": [],
   "resourceType": "GMObject",
 }
