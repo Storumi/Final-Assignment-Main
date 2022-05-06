@@ -3,7 +3,7 @@
     "name": "facing_down",
     "path": "sprites/facing_down/facing_down.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
