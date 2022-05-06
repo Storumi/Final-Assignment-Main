@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "game_manager",
-    "path": "objects/game_manager/game_manager.yy",
+    "name": "par_depth",
+    "path": "objects/par_depth/par_depth.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
