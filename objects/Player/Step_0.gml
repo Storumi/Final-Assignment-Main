@@ -66,3 +66,13 @@ if(is_hit == true && is_invincible == false){
 if (hp <=0){room_goto(Lose);}
 	
 	
+camera_w = camera_get_view_width(view_camera[0])
+camera_h = camera_get_view_height(view_camera[0])
+
+//centering
+camera_x = x - camera_w / 2
+camera_y = y - camera_h / 2
+
+camera_set_view_pos(view_camera[0], camera_x, camera_y)
+
+	

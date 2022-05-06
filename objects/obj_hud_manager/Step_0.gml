@@ -4,16 +4,28 @@
 //bind abilities to J, K, L, ;
 if(keyboard_check(ord("J")) && !fire_cd) { 
 	fire_cd = true;
-	instance_create_depth(Player.x,Player.y - 20,layer,Fire_Spell);
+	Player.casting = true;
+	instance_create_depth(Player.x,Player.y - 50,layer,Fire_Spell);
 } else if(keyboard_check(ord("K")) && !zap_cd) {
 	zap_cd = true;
+	Player.casting = true;
 	instance_create_depth(Player.x,Player.y,layer,Lightning_Spell);
 } else if(keyboard_check(ord("L")) && !heal_cd && Player.hp < 5) {
 	heal_cd = true;
+	Player.casting = true;
 	instance_create_depth(Player.x,Player.y,layer,Heal_Spell);
 } else if(keyboard_check(186)  && !ice_cd) {
 	ice_cd = true;
+	Player.casting = true;
 	instance_create_depth(Player.x,Player.y - 10,layer,Ice_Spell);
+}
+
+if(Player.casting == true) {
+	player_timer++;
+	if(player_timer == 20) {
+		player_timer = 0;
+		Player.casting = false;
+	}
 }
 
 //fire cooldown

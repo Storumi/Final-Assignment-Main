@@ -16,7 +16,6 @@
  is_hit = false;
  is_invincible = false;
 
- 
  /*
  0 means facing right
  1 means facing up
@@ -25,6 +24,6 @@
  4 means idle
  */
 
-camera_set_view_pos(view_camera[0], x - (view_wport[0] / 2), y - (view_hport[0] / 2));
-
+//camera_set_view_pos(view_camera[0], x - (view_wport[0] / 2), y - (view_hport[0] / 2));
+//camera
 

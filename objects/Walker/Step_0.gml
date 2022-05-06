@@ -72,9 +72,23 @@ else{image_speed=0;}
 healthbar_x = Walker.x-15.5;
 healthbar_y = Walker.y -35;
 
+/*
+var fire_collision = instance_place(x, y, Fire_Spell);
+if (fire_collision != noone && collide == false) {
+	collide = true;
+	collision_timer = 0;
+	id.hp -= 2;
+	id.healthbar_width -= 20;
+}
 
+
+collision_timer++;
+if(collision_timer == 20) {
+	collide = false;
+}
+*/
 //death
 if(hp <= 0){
 	//play death animation?
-	instance_deactivate_object(Walker);
+	instance_destroy(self);
 }

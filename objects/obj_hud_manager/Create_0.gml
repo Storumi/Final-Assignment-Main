@@ -22,6 +22,8 @@ ice_timer = 0;
 heal_timer = 0;
 zap_timer = 0;
 
+player_timer = 0;
+
 spellbox_w = sprite_get_width(spellbox);
 spellbox_h = sprite_get_height(spellbox);
 spell_w = sprite_get_width(fire);
