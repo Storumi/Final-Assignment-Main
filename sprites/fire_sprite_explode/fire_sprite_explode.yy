@@ -38,7 +38,7 @@
     "spriteId": {"name":"fire_sprite_explode","path":"sprites/fire_sprite_explode/fire_sprite_explode.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 4.0,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

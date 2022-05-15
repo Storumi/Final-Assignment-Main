@@ -1,11 +1,11 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "portal_sprite",
+    "path": "sprites/portal_sprite/portal_sprite.yy",
+  },
   "solid": false,
   "visible": true,
-  "spriteMaskId": {
-    "name": "key_sprite",
-    "path": "sprites/key_sprite/key_sprite.yy",
-  },
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"parent":{"name":"Exit","path":"objects/Exit/Exit.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
