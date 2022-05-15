@@ -1,11 +1,11 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "portal_sprite",
+    "path": "sprites/portal_sprite/portal_sprite.yy",
+  },
   "solid": false,
   "visible": true,
-  "spriteMaskId": {
-    "name": "key_sprite",
-    "path": "sprites/key_sprite/key_sprite.yy",
-  },
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,

@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-healthbar_x = Player.x-50;
-healthbar_y = Player.y -70;
+healthbar_x = Player.x - 50;
+healthbar_y = Player.y - 100;
 if(!casting){
 if (keyboard_check(ord("W")) && place_free(x,y-collision_speed) && 
 	(!keyboard_check(ord("A"))&&!keyboard_check(ord("S"))&&!keyboard_check(ord("D"))))
@@ -80,6 +80,17 @@ if(flashAlpha > 0){
 //make similar code for enemy contact
 if (hp <=0){room_goto(Lose);}
 	
+	
+//door
+if(place_meeting(x + collision_speed, y, Door) && game_manager.key_collected == true) {
+	instance_destroy(Door);
+}
+
+
+if(place_meeting(x, y, Exit)) {
+	room_goto(Win);
+}
+
 	
 camera_w = camera_get_view_width(view_camera[0])
 camera_h = camera_get_view_height(view_camera[0])
