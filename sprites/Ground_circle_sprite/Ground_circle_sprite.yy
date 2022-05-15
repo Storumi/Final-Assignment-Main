@@ -7,10 +7,17 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
+<<<<<<< HEAD
   "bbox_left": 17,
   "bbox_right": 46,
   "bbox_top": 25,
   "bbox_bottom": 38,
+=======
+  "bbox_left": 10,
+  "bbox_right": 60,
+  "bbox_top": 21,
+  "bbox_bottom": 43,
+>>>>>>> 40fe7656795f6e47744002fe53a60f77547df15b
   "HTile": false,
   "VTile": false,
   "For3D": false,
