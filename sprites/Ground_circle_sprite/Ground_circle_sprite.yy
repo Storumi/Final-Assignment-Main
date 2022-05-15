@@ -8,6 +8,7 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "bbox_left": 17,
   "bbox_right": 46,
   "bbox_top": 25,
@@ -18,6 +19,12 @@
   "bbox_top": 21,
   "bbox_bottom": 43,
 >>>>>>> 40fe7656795f6e47744002fe53a60f77547df15b
+=======
+  "bbox_left": 4,
+  "bbox_right": 58,
+  "bbox_top": 18,
+  "bbox_bottom": 49,
+>>>>>>> parent of d5fadaa (merge)
   "HTile": false,
   "VTile": false,
   "For3D": false,
