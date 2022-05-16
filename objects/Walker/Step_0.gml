@@ -8,13 +8,23 @@ switch(state)
 		break;
 
 		case aggro:
-			direction=point_direction(x,y,Player.x,Player.y);
-			if(distance_to_object(Player)>attack_radius)
-				{
-					speed=1;
-				}
-			else{state=Attack;speed=0;waittimer=0;attack_x=Player.x-32;attack_y=Player.y-32}
-		break;
+				speed=1;
+				direction=point_direction(x,y,Player.x,Player.y);
+					if(!place_free(x+10*hspeed,y+10*vspeed))
+					{
+						if(place_free(x+10*hspeed,y)){vspeed=0}
+						else if(place_free(x,y+10*vspeed)){hspeed=0}
+					}
+				
+				if(distance_to_object(Player)>attack_radius)
+					{
+						speed=1;
+					}
+				else{state=Attack;speed=0;waittimer=0;attack_x=Player.x-32;attack_y=Player.y-32}
+ 
+					
+			
+	break;
 		
 		case Attack:
 			
