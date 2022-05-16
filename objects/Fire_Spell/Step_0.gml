@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+sprite_index = sprite;
+/*
 if(collide == true) {
 	if(timer < 20) {
 		timer++
@@ -7,3 +9,4 @@ if(collide == true) {
 		instance_destroy(id);
 	}
 }
+*/

@@ -8,7 +8,7 @@ switch(state)
 		break;
 
 		case aggro:
-			direction=point_direction(x,y,Player.x,Player.y);
+			direction=point_direction(x, y, Player.x, Player.y);
 			if(distance_to_object(Player)>attack_radius)
 				{
 					speed=1;

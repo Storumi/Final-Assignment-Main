@@ -5,17 +5,18 @@ image_speed = 1;
 alarm[0] = 40;
 alarm[1] = 70;
 facing = game_manager.facing;
+sprite = fire_sprite;
 if(facing == 0) {
 	image_xscale = 1;
 	hspeed=projectilespeed;
 } else if(facing == 1) { //up
-	sprite_index = up_fire_sprite;
+	sprite = up_fire_sprite;
 	vspeed=-projectilespeed;
 } else if(facing == 2) {
 	image_xscale = -1;
 	hspeed=-projectilespeed;
 } else if(facing == 3) { //down
-	sprite_index = down_fire_sprite;
+	sprite = down_fire_sprite;
 	vspeed=projectilespeed;
 }
 

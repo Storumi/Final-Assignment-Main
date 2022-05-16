@@ -81,6 +81,7 @@
     {"id":{"name":"Enemy_Attack","path":"objects/Enemy_Attack/Enemy_Attack.yy",},"order":22,},
     {"id":{"name":"health_bar","path":"sprites/health_bar/health_bar.yy",},"order":3,},
     {"id":{"name":"Menu","path":"objects/Menu/Menu.yy",},"order":11,},
+    {"id":{"name":"empty_sprite","path":"sprites/empty_sprite/empty_sprite.yy",},"order":23,},
     {"id":{"name":"facing_left","path":"sprites/facing_left/facing_left.yy",},"order":1,},
     {"id":{"name":"Tree_sprite","path":"sprites/Tree_sprite/Tree_sprite.yy",},"order":2,},
     {"id":{"name":"Ice_Spell","path":"objects/Ice_Spell/Ice_Spell.yy",},"order":1,},
