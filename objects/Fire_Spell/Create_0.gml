@@ -21,6 +21,8 @@ if(facing == 0) {
 
 timer = 0;
 collide = false;
+
+audio_play_sound(asset_get_index("woosh"),1,false);
  
  /*
  0 means facing right

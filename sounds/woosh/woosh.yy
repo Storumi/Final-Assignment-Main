@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -10,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Door_open_sound.wav",
-  "duration": 0.255442,
+  "soundFile": "woosh.wav",
+  "duration": 2.386644,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Door_open_sound",
+  "name": "woosh",
   "tags": [],
   "resourceType": "GMSound",
 }

@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_play_sound(asset_get_index("explode"),1,false);
+
 projectilespeed = 0;
 alarm[0] = 1000;
 alarm[1] = 1000;
