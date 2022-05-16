@@ -69,8 +69,8 @@ else
 	
 if(speed>0){image_speed=1}
 else{image_speed=0;}
-healthbar_x = Walker.x-15.5;
-healthbar_y = Walker.y -35;
+healthbar_x = self.x-15.5;
+healthbar_y = self.y -35;
 
 /*
 var fire_collision = instance_place(x, y, Fire_Spell);
