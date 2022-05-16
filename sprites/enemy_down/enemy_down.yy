@@ -14,8 +14,8 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 60,
+  "height": 70,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -103,30 +103,54 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8ffb577c-4851-4ac0-bf74-db29c9524a6d","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8ffb577c-4851-4ac0-bf74-db29c9524a6d","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"8ffb577c-4851-4ac0-bf74-db29c9524a6d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"eb49fa3d-3f8a-4226-9a33-99e5fec4d4eb","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eb49fa3d-3f8a-4226-9a33-99e5fec4d4eb","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"eb49fa3d-3f8a-4226-9a33-99e5fec4d4eb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c43db2c7-15bd-42cc-94e7-601d6ba99097","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c43db2c7-15bd-42cc-94e7-601d6ba99097","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"c43db2c7-15bd-42cc-94e7-601d6ba99097","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ccc51f86-1fdd-434e-8d69-96b56613dc5b","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ccc51f86-1fdd-434e-8d69-96b56613dc5b","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"ccc51f86-1fdd-434e-8d69-96b56613dc5b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"044175d4-2e12-4d90-909a-667457e93b32","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"044175d4-2e12-4d90-909a-667457e93b32","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"044175d4-2e12-4d90-909a-667457e93b32","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"161fa622-b320-422c-9ee9-99452fbd8dd9","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"161fa622-b320-422c-9ee9-99452fbd8dd9","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"161fa622-b320-422c-9ee9-99452fbd8dd9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"57a84700-9627-4e0d-8b84-c818fcd56cc9","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"57a84700-9627-4e0d-8b84-c818fcd56cc9","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"57a84700-9627-4e0d-8b84-c818fcd56cc9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f5065376-749b-45f7-af5b-95c123415edd","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f5065376-749b-45f7-af5b-95c123415edd","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"f5065376-749b-45f7-af5b-95c123415edd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6729dea9-6410-4644-98b5-b8621b593479","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6729dea9-6410-4644-98b5-b8621b593479","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"6729dea9-6410-4644-98b5-b8621b593479","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"95884e5c-7a74-42bc-8931-a70e32eecb73","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"95884e5c-7a74-42bc-8931-a70e32eecb73","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"95884e5c-7a74-42bc-8931-a70e32eecb73","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"265a04bb-3dc6-41a8-90fa-178068f31f0c","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"265a04bb-3dc6-41a8-90fa-178068f31f0c","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"265a04bb-3dc6-41a8-90fa-178068f31f0c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3e45d013-5808-48b4-b0a4-7cbf57d31f7e","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3e45d013-5808-48b4-b0a4-7cbf57d31f7e","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"3e45d013-5808-48b4-b0a4-7cbf57d31f7e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d3a849ed-a0cc-4718-97ae-20ff64287ab8","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d3a849ed-a0cc-4718-97ae-20ff64287ab8","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"d3a849ed-a0cc-4718-97ae-20ff64287ab8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"776972d6-cb16-4ea8-a5fd-2992fa3a5926","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"776972d6-cb16-4ea8-a5fd-2992fa3a5926","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"776972d6-cb16-4ea8-a5fd-2992fa3a5926","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d79fb94-e35f-417e-8d3d-043c0dab56d4","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d79fb94-e35f-417e-8d3d-043c0dab56d4","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"9d79fb94-e35f-417e-8d3d-043c0dab56d4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"28759e14-b8e4-44ff-a543-24ac1ccdab08","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"28759e14-b8e4-44ff-a543-24ac1ccdab08","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"28759e14-b8e4-44ff-a543-24ac1ccdab08","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"30a62299-93c9-4ce2-8a6d-d98f325b512b","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"30a62299-93c9-4ce2-8a6d-d98f325b512b","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"30a62299-93c9-4ce2-8a6d-d98f325b512b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4d1f5090-1504-4220-9327-cc2181bebf94","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4d1f5090-1504-4220-9327-cc2181bebf94","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"4d1f5090-1504-4220-9327-cc2181bebf94","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"02d92c7c-30a2-4f9b-9ef5-9bf2d3a648af","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"02d92c7c-30a2-4f9b-9ef5-9bf2d3a648af","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"02d92c7c-30a2-4f9b-9ef5-9bf2d3a648af","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fc871fe0-08b5-42b9-b773-6ca58f7da828","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fc871fe0-08b5-42b9-b773-6ca58f7da828","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"fc871fe0-08b5-42b9-b773-6ca58f7da828","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"61fc9300-447c-41cf-bff8-03db988672a9","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"61fc9300-447c-41cf-bff8-03db988672a9","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"61fc9300-447c-41cf-bff8-03db988672a9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"842e08d5-ccb8-44f5-9851-28e71ff965e4","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"842e08d5-ccb8-44f5-9851-28e71ff965e4","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"842e08d5-ccb8-44f5-9851-28e71ff965e4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3800bd19-80e4-4d1e-9ef9-77167c2ad59d","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3800bd19-80e4-4d1e-9ef9-77167c2ad59d","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"3800bd19-80e4-4d1e-9ef9-77167c2ad59d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8c00ee7c-8b56-4c84-83c2-03bdcd796410","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8c00ee7c-8b56-4c84-83c2-03bdcd796410","path":"sprites/enemy_down/enemy_down.yy",},"LayerId":{"name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","name":"8c00ee7c-8b56-4c84-83c2-03bdcd796410","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},
@@ -136,19 +160,27 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 8.0,
+    "length": 16.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a4c02fb6-49a1-4471-9459-22ca95668363","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8ffb577c-4851-4ac0-bf74-db29c9524a6d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"a9bdf968-86d1-44fb-bd09-be0f27c0a3de","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eb49fa3d-3f8a-4226-9a33-99e5fec4d4eb","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"1ce62dd7-c583-416b-b773-ff9f5281ca7b","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c43db2c7-15bd-42cc-94e7-601d6ba99097","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"3b1e055d-1404-49f1-a9c9-fd5c8708cf38","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ccc51f86-1fdd-434e-8d69-96b56613dc5b","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"e4256692-d783-4086-bf89-627ce29dcc55","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"044175d4-2e12-4d90-909a-667457e93b32","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"1f234b81-e108-4c04-a96e-19d909b33a6f","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"161fa622-b320-422c-9ee9-99452fbd8dd9","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"58c73264-3929-4bf4-bd2a-bb7b9e4c7073","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"57a84700-9627-4e0d-8b84-c818fcd56cc9","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"5f71a665-f74b-483a-adb0-ee5c286de11e","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f5065376-749b-45f7-af5b-95c123415edd","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ce882946-d865-4229-b3e7-19aa012764e9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6729dea9-6410-4644-98b5-b8621b593479","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"19e91235-0ec8-47c5-8589-861913f8776a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"95884e5c-7a74-42bc-8931-a70e32eecb73","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0f0c93e6-2506-4ec9-bd63-21441626fbb6","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"265a04bb-3dc6-41a8-90fa-178068f31f0c","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f08d6b6d-7b4d-43a8-9fc2-6ec02dc9c2b1","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e45d013-5808-48b4-b0a4-7cbf57d31f7e","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e569cb2f-3f73-4325-b7f3-5832997e283e","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3a849ed-a0cc-4718-97ae-20ff64287ab8","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5ea211a9-dcfa-46a9-959b-98d7de2a2c19","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"776972d6-cb16-4ea8-a5fd-2992fa3a5926","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe4171fd-d8dd-4980-a311-9f42501796e5","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d79fb94-e35f-417e-8d3d-043c0dab56d4","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"95ca968a-0dac-4fb8-80b4-2dfc9f37e8c3","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"28759e14-b8e4-44ff-a543-24ac1ccdab08","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"43143f5f-6cf7-4dbe-8a56-b66928acf7aa","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"30a62299-93c9-4ce2-8a6d-d98f325b512b","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"32de79f0-980a-482d-b21e-70228b0db704","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4d1f5090-1504-4220-9327-cc2181bebf94","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5bda1d5c-e5bb-4b2b-977f-f202db9b874b","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"02d92c7c-30a2-4f9b-9ef5-9bf2d3a648af","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"18143e89-9606-48e9-bfec-b1b874f9e389","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fc871fe0-08b5-42b9-b773-6ca58f7da828","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"61c85781-61fd-4613-b2fc-943520acb60d","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"61fc9300-447c-41cf-bff8-03db988672a9","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"96f80f45-9c74-4a19-aa2c-d68b6812cef1","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"842e08d5-ccb8-44f5-9851-28e71ff965e4","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"eef54f8c-6a6e-45d3-837f-06d6ee61c0fa","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3800bd19-80e4-4d1e-9ef9-77167c2ad59d","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1291cdb1-3499-4295-9831-68288907940d","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8c00ee7c-8b56-4c84-83c2-03bdcd796410","path":"sprites/enemy_down/enemy_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -161,8 +193,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 32,
-    "yorigin": 32,
+    "xorigin": 30,
+    "yorigin": 35,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"enemy_down","path":"sprites/enemy_down/enemy_down.yy",},
@@ -172,7 +204,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c81825b6-3fea-42d9-a3a3-d1cc3461f99d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"42fd8cba-cdc3-48fb-8bc6-c417b8bfcfc0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
