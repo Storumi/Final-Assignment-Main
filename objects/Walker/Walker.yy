@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "enemy_down",
+    "path": "sprites/enemy_down/enemy_down.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "par_depth",
