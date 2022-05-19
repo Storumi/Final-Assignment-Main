@@ -41,7 +41,7 @@ if(fire_cd) {
 //zap cooldown
 if(zap_cd) {
 	zap_timer++;
-	if(zap_timer == 500) {
+	if(zap_timer == 160) {
 		zap_timer = 0;
 		zap_cd = false;
 	}

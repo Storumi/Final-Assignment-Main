@@ -23,4 +23,3 @@ else if(facing==3){
 	y += 50;
 	}
 
-audio_play_sound(asset_get_index("woosh"),1,false);
